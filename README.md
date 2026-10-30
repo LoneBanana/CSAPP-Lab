@@ -14,4 +14,5 @@ CSAPP3e Course Labs Files. Downloaded from [HERE](http://csapp.cs.cmu.edu/3e/lab
 * Malloc Lab
 * Proxy Lab
 
-README, Writeup, Release Notes, Self-Study Handout are included in each folder.
+# Purpose of this project is to better link and understand hardware and software together; using Arduino Nano Q for accessing and manipulating any hardware mentioned in the textbook
+ -- Ex: Reading directly from L1 Cache
